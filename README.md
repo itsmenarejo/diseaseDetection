@@ -21,7 +21,7 @@ A Flask-based web application that detects Multiple Sclerosis (MS) and Cerebral 
  
   * 🎯 Predicts MS or CSVD with confidence %
  
- q* 🧰 Applies preprocessing (skull stripping, resizing)
+  * 🧰 Applies preprocessing (skull stripping, resizing)
  
   * 🔬 Uses Random Forest classifier on extracted features
  
